@@ -1,4 +1,4 @@
-class Pessoa{
+                                                                                                                    class Pessoa{
     constructor(nome, idade, profissao){
         this.nome = nome;
         this.idade = idade;
